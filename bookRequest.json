@@ -1,0 +1,17 @@
+{
+  "bookId": 123,
+  "title": "Spring Core",
+  "publicationYear": 2024,
+  "authors": [
+    {
+      "authorId": 1001,
+      "name": "xyz",
+      "birthYear": 1978
+    },
+    {
+      "authorId": 1002,
+      "name": "abc",
+      "birthYear": 1985
+    }
+  ]
+}
